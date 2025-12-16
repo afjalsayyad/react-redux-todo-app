@@ -19,13 +19,24 @@ This is a simple Todo application built using React and Redux Toolkit.
 User action → Dispatch → Reducer → Store → UI update
 
 ## Project Structure
+
+```text
 src/
-app/store.js
-feature/todoSlice.js
-components/Addtodo.jsx
-components/Todos.jsx
-App.jsx
-main.jsx
+├── app/
+│   └── store.js
+│
+├── features/
+│   └── todo/
+│       └── todoSlice.js
+│
+├── components/
+│   ├── AddTodo.jsx
+│   └── Todos.jsx
+│
+├── App.jsx
+└── main.jsx
+
+
 
 ## Author
 Afjal Sayyad
