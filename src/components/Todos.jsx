@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { removetodo, updatetodo } from "../feature/todoSlice";
+import { removetodo, updatetodo } from "../features/todoSlice";
 
 function Todos() {
   const todos = useSelector((state) => state.todo.todos);

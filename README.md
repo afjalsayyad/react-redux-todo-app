@@ -26,8 +26,7 @@ src/
 │   └── store.js
 │
 ├── features/
-│   └── todo/
-│       └── todoSlice.js
+│   └──  todoSlice.js
 │
 ├── components/
 │   ├── AddTodo.jsx
