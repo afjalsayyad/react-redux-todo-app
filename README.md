@@ -2,6 +2,10 @@
 
 This is a simple Todo application built using React and Redux Toolkit.
 
+##Live Demo:
+https://react-todo-redux-app.netlify.app
+
+
 ## Features
 - Add Todo
 - Update Todo
